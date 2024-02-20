@@ -1,5 +1,0 @@
-Inteligência Artificial - É a capacidade de uma máquina de produzir atividades iguais aos seres humanos. Ou seja,aprender,perceber e decidir quais caminhos seguir,diante de determinadas situações.
-Dados - 
-Banco de Dados
-Servidor (computação)
-Memória (computação)  
