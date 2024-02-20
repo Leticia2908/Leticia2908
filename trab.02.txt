@@ -1,0 +1,3 @@
+Neutralidade da rede – todo tráfego deve ser tratado de forma iguaritária 
+Zero-rating - Oferece um tráfego específico de graça, sem descontar do tráfego. Logo, ferindo a neutralidade da rede. Dando acesso aos dados do usuário.
+Algoritmo: São instruções que tomam decisões, baseado nas buscas de alguém.
