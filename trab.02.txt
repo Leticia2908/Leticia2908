@@ -1,0 +1,21 @@
+Jurimetria é a estatística aplicada ao direito, em uma análise simples e direta. Tem sido utilizada em conjunto com softwares jurídicos num modelo de tentar prever resultados e oferecer (daí a questão estatística) probabilidades e valores envolvidos nestas análises, proporcionando condições de análises descritivas, diagnósticas e preditivas mais profundas. Além disso, consegue evidenciar dinâmicas sobre a causa raiz de situações identificadas como relevantes. E, quando utilizados recursos tecnológicos especializados, permite criar aprendizado e orientar ações práticas mitigatórias;
+
+O Zero Rating é uma prática realizada pelas operadoras e algumas empresas de tecnologia que consiste em permitir o acesso de forma "gratuita", ou sem cobrar o tráfego de dados móveis a alguns serviços online, como apps de rede sociais e mensagens;
+
+A neutralidade da rede é um princípio que originou-se como um guia para navegação na internet e posteriormente tornou-se lei em muitos países, incluindo o Brasil. É um princípio que requer que não haja discriminação em relação ao conteúdo que é enviado ou recebido na internet;
+
+Processo é um conjunto de atividades sequenciais que entregam valor ao cliente. Com atividades interdependentes, ordenadas no tempo e espaço de forma encadeada, que ocorrem como resposta a eventos e que possui um objetivo, início, fim, entradas e saídas bem definidos. Essas atividades são geralmente interfuncionais ou interorganizacionais que trabalham juntas para criar um produto ou serviço final;
+
+Sistema de arquivo são os elementos responsáveis por gerenciar como os dados são escritos, armazenados e recuperados.
+Eles mantêm diversas informações (metadados) sobre onde os dados estão alocados nos dispositivos de armazenamento e como o espaço livre será utilizado.
+Essas regras também são importantes para manter a integridade dos dados, uma vez que elas gerenciam o processo de leitura e gravação de dados.
+
+https://www.gov.br/agricultura/pt-br/acesso-a-informacao/institucional/escritorio-de-processos/o-que-e-um-processo-de-negocio-gestao-de-processos
+
+https://www.controle.net/faq/o-que-e-sistema-de-arquivos-file-system
+
+https://www.jusbrasil.com.br/artigos/entenda-de-uma-vez-por-todas-o-conceito-de-neutralidade-da-rede/1839681291
+
+https://www.techtudo.com.br/noticias/2015/05/o-que-e-zero-rating-entenda-polemica-que-envolve-facebook-e-operadoras.ghtml
+
+https://www.projuris.com.br/blog/jurimetria/
