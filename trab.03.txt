@@ -1,0 +1,60 @@
+A) A tecnologia nos permite acessar e fornecer informações de onde estivermos, facilitando processos que demoravam horas e hoje são realizados em minutos. Devido a isso, muitos dados pessoais ficam expostos online, correndo riscos de serem acessados para o uso indevido. Atualmente, temos a Lei Geral de Proteção de Dados (LGPD) para que se faça cumprir a segurança destas informações.
+Esta lei exigiu que muitas empresas tivessem que se adaptar a estas novas regras de privacidade de dados. Com os Data Centers não foi diferente. “É importante que estejam protegidos, tanto de danos físicos quanto virtuais de seus colaboradores”, comenta a diretora jurídica da ODATA, Erika Patara.
+O primeiro passo é adotar a metodologia Privacy By Design, no qual os profissionais da companhia precisam incorporar a privacidade e a proteção de dados pessoais em todos os projetos desenvolvidos pela organização. Usando este conceito, o trabalho deve ser feito em torno da proteção de informações, desde a concepção de sistemas e projetos até a arquitetura incorporada no Data Center.
+Para que um provedor de Data Center se proteja contra danos físicos, que podem influenciar na proteção dos dados de seus clientes, o ideal é investir em redundância, mesmo que os dados sejam guardados na nuvem. Além disso, é importante prezar pela segurança do local, com controles e verificação de acesso. Já contra a proteção de danos virtuais, é necessário dispor de tecnologias de segurança, como a criptografia de dados, firewalls e programas antimalware, que tornam a intercepção de informação mais difícil.
+Erika Patara ainda destaca alguns requisitos fundamentais para assegurar as condições de segurança e as premissas da LGPD para Data Centers:
+Mapeamento de quais dados são tratados, por quais áreas e com qual finalidade;
+Atualização de softwares e sistemas de controle de hardware;
+Monitoramento frequente de recursos;
+Política de controle de acesso físico e online;
+Divulgação e treinamento dos colaboradores com relação às boas práticas de TI;
+Garantia de que a informação, mesmo manipulada, mantenha seu conteúdo e suas características originais;
+Disponibilidade ao manter a informação sempre disponível para uso legítimo.
+Além disso, uma outra solução para os Data Centers é investir em certificações internacionais de segurança de dados, como a ISO 27000 e a PCI DSS. “Uma boa forma de promover a proteção física neste setor é alinhá-lo a padrões internacionais de segurança de dados. Tais certificações estabelecem processos capazes de manter uma política de cibersegurança mais confiável”, explica Erika.
+Os dados pessoais ficarão cada dia mais valiosos, já que é com base neles que traçam perfis de compra e análises de comportamento. Portanto, as pessoas estão mais conscientes deste papel e mais seletivas quando precisam compartilhar tais informações. A fiscalização da proteção de dados será efetiva e consequentemente as empresas investirão em tecnologias mais seguras, capazes de evitar possíveis ameaças de invasão ou roubo de informações.
+Vale destacar que o Data Center nada mais é do que um conjunto de equipamentos utilizados por uma organização para o processamento e armazenamento de dados, sistemas e aplicações. Essa estrutura reúne servidores, banco de dados informatizados e componentes auxiliares, como storages e ativos de rede. Uma das funções mais importantes é assegurar que as informações e sistemas hospedados nos Data Centers possam ser acessados a qualquer momento.
+A estrutura do controlador do Data Center é o local onde rodam o sistema e a rede de dados é instalada e mantida. É este lugar que deve operar com base nos preceitos da LGPD. É importante frisar que apesar de não atuar diretamente no processamento de dados dos usuários e de não exercer a responsabilidade sobre tais informações, cabe aos Data Centers, garantir a proteção física dos ambientes para que a gestão das informações seja segura.
+
+B) Formatos abertos
+Um formato aberto, em informática, indica uma especificação técnica de domínio público usada para a descrição e armazenamento de dados digitais, livre de restrições legais para seu uso.
+O principal objetivo dos formatos abertos é garantir o acesso aos dados a longo prazo sem inseguranças jurídicas ou restrições devidas às especificações técnicas: em outras palavras, garantir a interoperabilidade. Outro objetivo do formato aberto é incentivar a concorrência, ao invés de permitir que um único fabricante detenha o controle sobre um formato proprietário.
+Formatos proprietários
+Os formatos proprietários são, na verdade, controlados e definidos por interesses privados.
+Com o formato proprietário, o usuário corre o risco de perder todas as informações contidas no arquivo caso o software pare de funcionar ou fosse descontinuado, já que não teria outro sistema capaz de processá-las. Todas as informações coletadas nos arquivos públicos (órgãos, instituições, administração, etc.) se tornariam ilegíveis e inutilizáveis em muito pouco tempo.
+A título de exemplo, o formato MP3 é proprietário mas também aberto porque, se bém patenteado, suas especificações são públicas. Tornar públicas as especificações técnicas é uma maneira de difundir o formato e torná-lo um padrão internacional.
+Qual a diferença entre formato proprietário aberto e opensource? Enquanto o formato opensource pode ser lido ou editado por qualquer aplicativo, o formato proprietárioo aberto pode ser alterado apenas com o programa proprietário.
+É evidente o valor do formato IFC: os dados são independentes do formato do arquivo onde eles são armazenados e transmitidos.
+
+B.1) Apesar de atualmente o PDF ser um padrão aberto mantido pela mantido pela International Organization for Standardization (ISO), a sua utilização em recursos educacionais não permitirá que seu conteúdo seja adaptado ou facilmente remixado, pois o formato PDF não permite edição, tornando, assim, difícil a cópia de trechos. Por fim, vale destacar que este formato dificulta sua utilização direta para se criar uma obra derivada.[1]
+Portanto, abaixo contêm uma lista dos formatos abertos disponíveis para serem utilizados em diversos tipos de Recursos Educacionais, processadores de texto e software livre:
+OASIS OpenDocument Format for Office Applications (para suites e documentos para escritório)
+LaTeX (uma linguagem de documentação)
+Json (uma linguagem de documentação)
+EPUB (formato de arquivo digital)
+DVI (uma linguagem para descrição de página)
+TXT (um formato de texto que não contém formatação)
+ODT (um formato de texto)
+ODS (formato de planilha)
+ODP (formato de apresentação)
+HTML/XHTML (linguagem)
+OpenEXR (um formato de imagem de alta faixa dinâmica)
+PNG (um formato de imagem)
+SVG (um formato de imagem)
+VRML/X3D (formato de dados 3D em realtime)
+FLAC (formato de áudio)
+MP3 (formato de áudio)
+Ogg - Container para Vorbis, FLAC, Speex (formato de áudio) & Theora (formato de vídeo)
+MKV (formato de vídeo)
+XML (linguagem)
+7z (formato de compressão de dados)
+Webm ( Formato de video opensource super-compacto de alta qualidade oficialmente em desenvolvimento pela Google )
+
+B.2) Dados abertos: dados tabulares apresentados em formato aberto
+Um primeiro aspecto a ser considerado está no fato de que é mais fácil publicar dados tabulares em formatos de arquivo adequados para este propósito: preferencialmente CSV, mas aceitavelmente em ODS que é um formato de arquivo para planilhas eletrônicas não-proprietário ou, toleravelmente, em XLS, que também é um formato de arquivo para planilhas eletrônicas, mas proprietário. De todo modo, se o órgão possui barreiras culturais ou tecnológicas que dificultam a publicação de dados tabulares sob sua guarda em formato aberto (dados abertos), planilhas eletrônicas podem servir à função de publicar dados tabulares, ainda que não em formato de dados (tabulares) abertos.
+Além disso, quando o órgão já tem clareza de que o solicitante deseja dados abertos, exportar dados tabulares para arquivos inadequados não apenas desperdiça recursos públicos (tempo, dinheiro, pessoal) ao exigir uma etapa a mais de trabalho inútil, como efetivamente prejudica a qualidade dos dados ao invés de agregar-lhes valor.
+Integridade dos dados publicados
+Um segundo aspecto relevante diz respeito à crença de que manter os dados encapsulados num arquivo PDF é o que garante sua integridade contra adulterações: nada mais equivocado. Arquivos PDF são facilmente editáveis. Não é o formato do arquivo o que garante sua integridade, mas sim a aplicação de algoritmos de verificação como MD5 e SHA-3, os quais geram resumos criptográficos capazes de identificar um arquivo unicamente, como uma “impressão digital”.
+Um órgão que esteja preocupado em garantir a integridade do arquivo publicado pode aplicar-lhe um desses algoritmos, por meio de softwares como o md5sum, e informar seu resumo criptográfico na própria resposta. Este é um exemplo de resumo criptográfico: “2a4afef31a65ec0cf97eac8d0c4307af”.
+Conclusão: não complique (em PDF), publique (em CSV)!
+Assim, quando uma solicitação de informação pública demanda a publicação em formato de dados abertos, é importante que o órgão nunca empacote a tabela e seus respectivos dados num arquivo em formato PDF, mas sim em um arquivo cujo formato seja adequado para a publicação de dados abertos: preferencialmente CSV, aceitavelmente ODS, e toleravelmente XLS. Arquivos no formato CSV são os mais simples de ser produzidos e os mais recomendados para a publicação de dados abertos por órgãos que ainda tenham pouco conhecimento acumulado sobre o assunto. Órgãos mais desenvolvidos podem publicar dados abertos, além de em CSV, também em RDF.
+PDF é um formato de arquivo inadequado para a publicação de dados tabulares e, consequentemente, de dados abertos. Para atender ao conceito de dados abertos, os dados devem ser publicados em formatos de arquivo adequados para este propósito, jamais em PDF.
