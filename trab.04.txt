@@ -1,0 +1,20 @@
+Python:
+Python é uma linguagem de programação interpretada, conhecida por sua simplicidade e legibilidade. É amplamente utilizada em várias áreas, como desenvolvimento web, ciência de dados, automação de tarefas, entre outros.
+
+print("Olá, mundo!")
+Código em python
+
+JavaScript:
+JavaScript é uma linguagem de programação interpretada, principalmente usada para criar páginas web interativas. É executada no lado do cliente (navegador) e também no lado do servidor (Node.js).
+console.log("Olá, mundo!");
+Código em JS
+
+C++:
+C++ é uma linguagem de programação compilada, amplamente utilizada para desenvolvimento de software de sistemas, jogos, aplicativos de desktop, entre outros. É conhecida por sua eficiência e velocidade de execução.
+
+#include <iostream>
+int main() {
+    std::cout << "Olá, mundo!" << std::endl;
+    return 0;
+}
+Código em C
